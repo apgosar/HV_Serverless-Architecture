@@ -16,6 +16,8 @@
   <em>Lambda Function</em>
 </p>
 
+### Lambda function code: [lambda_function.py](lambda_function.py)
+
 <p align="center">
   <img src="image-3.png" alt="Provided EC2 Access to Lambda Execution IAM Role" />
   <br />

@@ -10,6 +10,8 @@
     <em>Lambda function code</em>
 </p>
 
+### Lambda function code: [lambda_function.py](lambda_function.py)
+
 <p align="center">
     <img src="image-3.png" alt="Adding S3 access Permission policy to Lambda Execution IAM Role" />
     <br />
