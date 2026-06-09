@@ -1,3 +1,4 @@
+# Assignment 1: Automated Instance Management with AWS Lambda and Boto3
 <p align="center">
   <img src="image.png" alt="Instance in Running State with Action=Auto-Stop" />
   <br />
