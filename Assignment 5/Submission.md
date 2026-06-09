@@ -1,3 +1,5 @@
+# Assignment 5: Auto-Tagging EC2 Instances on Launch Using AWS Lambda and Boto3
+
 <p align="center">
     <img src="image.png" alt="Creating an EC2 instance without any tags" />
     <br />
