@@ -1,3 +1,5 @@
+# Assignment 6: Monitor and Alert High AWS Billing Using AWS Lambda, Boto3, and SNS
+
 <p align="center">
     <img src="image.png" alt="Lambda Function with CloudWatch Events Trigger to run every 10 mins" />
     <br />
