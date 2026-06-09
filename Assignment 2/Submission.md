@@ -1,3 +1,5 @@
+# Assignment 2: Automated S3 Bucket Cleanup Using AWS Lambda and Boto3
+
 <p align="center">
   <img src="image.png" alt="Old file uploaded to S3 bucket" />
   <br />
