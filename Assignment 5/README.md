@@ -1,5 +1,4 @@
-# Assignment 5
-Auto-Tagging EC2 Instances on Launch Using AWS Lambda and Boto3
+# Assignment 5: Auto-Tagging EC2 Instances on Launch Using AWS Lambda and Boto3
 
 ## Objective 
 Learn to automate the tagging of EC2 instances as soon as they are launched, ensuring better resource tracking and management.
